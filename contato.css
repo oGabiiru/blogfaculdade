@@ -1,0 +1,94 @@
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #41e2ba;
+    color: #fff;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  #info img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+
+  h1{
+    text-align: center;
+  }
+
+  .name{
+    text-align: center;
+  }
+  
+  form {
+    display: grid;
+    gap: 10px;
+    margin-top: 20px;   
+  }
+  
+  label {
+    font-weight: bold;
+  }
+  
+  input[type="text"],
+  input[type="email"],
+  input[type="tel"] {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+  }
+  
+  button:hover {
+    background-color: #555;
+  }
+  a{
+    color: #fff;
+    font-style: bold;
+    font-size: 16px;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }

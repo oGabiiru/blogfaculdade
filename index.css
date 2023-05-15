@@ -1,0 +1,71 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos do cabeçalho */
+  header {
+    background-color: #41e2ba;
+    color: #fff;
+    padding: 20px;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  /* Estilos do conteúdo principal */
+  main {
+    padding: 20px;
+    margin-left: 150px;
+    margin-right: 150px;
+  }
+  
+  #info {
+    text-align: center;
+  }
+  
+  #info img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+  }
+  
+  h1, h2, h3, h4 {
+    margin: 0;
+  }
+
+  .tit{
+    color:#41e2ba ;
+  }
+  
+  /* Estilos dos parágrafos */
+  p {
+    margin-top: 10px;
+    line-height: 1.5;
+  }
+  
+  /* Estilos do rodapé */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
